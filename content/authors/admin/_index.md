@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 吴治诚
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 电气工程 在读博士生
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 吴治诚
+name: Zhicheng Wu
 
 # Username (this should match the folder name)
 authors:

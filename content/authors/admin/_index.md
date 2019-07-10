@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - GIS绝缘评估与状态监测
 - 气体放电物理
-- 人工智能技术
+- 人工智能技术在高电压领域的应用
 
 education:
   courses:
@@ -64,6 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+吴治诚是西安交通大学电气工程学院高电压教研室的在读博士生，博士生导师为张乔根教授。他的博士课题为气体绝缘金属封闭组合电器(Gas-insulated metal-enclosed switchgear, GIS)的绝缘评价与状态监测。

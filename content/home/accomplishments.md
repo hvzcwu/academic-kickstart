@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "所获奖励"
 subtitle = ""
 
 # Date format

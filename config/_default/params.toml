@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "z_c_wu@163.com"
 phone = "132 7922 9903"
-address = "高电压教研室，电气工程学院，西安交通大学，西安市，陕西省，中国"
+address = "高电压技术教研室，电气工程学院，西安交通大学，西安市，陕西省，中国"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

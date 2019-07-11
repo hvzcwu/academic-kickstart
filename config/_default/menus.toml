@@ -9,14 +9,20 @@
   weight = 10
 
 [[main]]
-  name = "近期文章"
+  name = "代表作"
   url = "#featured"
   weight = 20
 
 [[main]]
+  name = "近期文章"
+  url = "#publications"
+  weight = 30
+
+
+[[main]]
   name = "所获奖励"
   url = "#accomplishments"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "联系我"

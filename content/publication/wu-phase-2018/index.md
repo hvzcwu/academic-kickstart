@@ -1,5 +1,5 @@
 ---
-title: "A phase synchronization photography method for AC discharge"
+title: "Note: A phase synchronization photography method for AC discharge"
 date: 2018-01-01
 publishDate: 2019-07-10T13:51:40.958619Z
 authors: ["Zhicheng Wu", "Qiaogen Zhang", "Jingtan Ma", "Lei Pang"]
@@ -9,4 +9,3 @@ featured: true
 publication: "*REVIEW OF SCIENTIFIC INSTRUMENTS*"
 doi: "10.1063/1.5031080"
 ---
-

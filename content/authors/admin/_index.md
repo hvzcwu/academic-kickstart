@@ -24,6 +24,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - GIS绝缘评估与状态监测
+- 电气设备局部放电检测
 - 气体放电物理
 - 人工智能技术在高电压领域的应用
 
@@ -46,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "z_c_wu@163.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:z_c_wu@163.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Fk93jccAAAAJ&hl

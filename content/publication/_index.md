@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 所有文章
 
 # View.
 #   1 = List

@@ -1,0 +1,11 @@
+---
+title: "Influence of metallic contamination on surface charge distribution of a 200kV cone-type insulator"
+date: 2017-01-01
+publishDate: 2019-07-11T04:26:31.177000Z
+authors: ["Du Qiandong", "Liu Haoyu", "Wu Zhicheng", "Zhu Zhihao", "Zhao Junping", "Cui Boyuan", "He Jie", "Chen Yun"]
+publication_types: ["1"]
+abstract: "In the operation of HVDC GIL (Gas-insulated Transmission Line), cone-type insulator can separate SF6 chambers, support the HV conductor and play the role of electric insulation. However, with long-term applied HVDC voltage, charges are prone to accumulate on the insulator surface, which can lead to the decrease of flashover voltage and threaten the stability of power system. Besides, the existence of metallic particles inside the GIL chamber, especially those attached along the insulator surface, can result in a more serious charge accumulation. Therefore, it is necessary to measure the surface charge distribution of clean and metal particle contaminated cone-type insulator in order to analyze its insulation properties under HVDC voltage. In this paper, a 3D 4-axis manipulating system is built to control the position of a capacitive probe to measure the surface potential of a +/- 200kV cone-type insulator. The probe keeps perpendicular to the concave surface at an identical distance and takes measurement along a pre-set trajectory after the applied voltage has been interpreted. Surface charge distributions of clean and metallic contaminated cone-type insulators are obtained successively. Influences of voltage polarity and application time are equally studied. The results show that metallic contamination has an enormous influence on surface charge polarities and distribution. For a clean surface, negative charge accumulates along the insulation surface under positive HVDC voltage; while under negative HVDC voltage, charges of both polarities are detected in different areas. For an insulator surface with metallic contamination, charge of the same polarity as the applied voltage is found to be significant near the contamination area. Analyses are made from the perspective of electric field distortion and partial discharge caused by the metallic contamination."
+featured: false
+publication: "*2017 1ST INTERNATIONAL CONFERENCE ON ELECTRICAL MATERIALS AND POWER EQUIPMENT (ICEMPE)*"
+---
+

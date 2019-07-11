@@ -1,0 +1,11 @@
+---
+title: "Influence of Trace SF6 on Discharge Characteristics of SF6/N-2 Gas Mixture under Lightning Impulse"
+date: 2017-01-01
+publishDate: 2019-07-11T04:26:31.177000Z
+authors: ["Can Guo", "Qiaogen Zhang", "Lingli Zhang", "Jingtan Ma", "Zhicheng Wu", "Ming Chen"]
+publication_types: ["1"]
+abstract: "As one kind of synergistic effect gas, the discharge characteristics of SF6/N-2 gas mixtures would be influenced significantly by trace amounts of SF6. That is, the discharge characteristics of pure N-2 is quite different from that of SF6/N-2 gas mixtures with relatively low content of SF6. For the application of SF6/N-2 gas mixtures in power system equipment, this paper studied on the discharge characteristics of SF6/N-2 gas mixtures with low SF6 mixing ratio in extremely non-uniform electric field under positive and negative lightning impulse. Meanwhile, the characteristic of SF6/N-2 gas mixtures were compared with that of pure N-2 and SF6. The experimental results indicate that the 50% breakdown voltage increases linearly with the rise of gas pressure under negative lightning impulse, and the rising rate of breakdown voltage with pure N-2 is greater than SF6/N-2 gas mixtures even greater than pure SF6 gas. At high gas pressure, the 50% breakdown voltage of pure N-2 is higher than that of SF6/N-2 gas mixtures, that is to say, the negative synergistic effect appeared. Under positive lightning impulse, the influence of gas pressure on 50% breakdown voltage is weaker, but the N-curve characteristic appeared because of the effect space charge. Meanwhile, the negative synergistic effect also appeared under positive lightning impulse at high gas pressure. The experimental results indicate that the breakdown time delay of pure N-2 is much longer than that of SF6/N-2 gas mixtures with 1% SF6 mixing ratio because of the obvious difference between the formative time delay of N-2 and SF6/N-2 gas mixtures. The phenomenon of breakdown time delay demonstrates that the discharge form of N-2 is different from that of SF6/N-2 gas mixtures, that is to say, the streamer propagation changes to streamer-leader propagation."
+featured: false
+publication: "*2017 1ST INTERNATIONAL CONFERENCE ON ELECTRICAL MATERIALS AND POWER EQUIPMENT (ICEMPE)*"
+---
+

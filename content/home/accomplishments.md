@@ -43,9 +43,19 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "优秀共产党员"
   url = "http://ee.xjtu.edu.cn/info/1114/9392.htm"
-  certificate_url = "m"
+  certificate_url = ""
   date_start = "2019-06-28"
   date_end = ""
   description = ""
+
+  [[item]]
+    organization = "西安交通大学"
+    organization_url = ""
+    title = "优秀研究生"
+    url = ""
+    certificate_url = ""
+    date_start = "2019-11-28"
+    date_end = ""
+    description = ""
 
 +++

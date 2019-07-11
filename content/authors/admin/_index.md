@@ -14,8 +14,10 @@ role: 电气工程 在读博士生
 
 # Organizations/Affiliations
 organizations:
+- name: 电力设备电气绝缘国家重点实验室
+  url: "http://sklei.xjtu.edu.cn/"
 - name: 西安交通大学
-  url: "www.xjtu.edu.cn"
+  url: "http://www.xjtu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

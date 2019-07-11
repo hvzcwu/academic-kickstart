@@ -2,7 +2,7 @@
 title: "Influence of impulse waveform parameters on the breakdown voltage in SF6highly inhomogeneous electric field"
 date: 2016-07-01
 publishDate: 2019-07-11T09:31:07.774000Z
-authors: ["T. Wen", "Q. Zhang", "Z. Wu", "C. Guo", "M. Chen", "L. Zhang", "X. Tan"]
+authors: ["Tao Wen", "Qiaogen Zhang", "Zhicheng Wu", "Can Guo", "Ming Chen", "Lingli Zhang", "Xiangyu Tan"]
 publication_types: ["1"]
 abstract: ""
 featured: false

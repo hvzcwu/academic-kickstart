@@ -2,7 +2,7 @@
 title: "Influence of operating voltage on breakdown characteristics of HVDC GIL under impulse voltage"
 date: 2018-01-01
 publishDate: 2019-07-11T09:31:07.770000Z
-authors: ["J. Ma", "Q. Zhang", "Z. Wu", "C. Guo", "T. Wen", "L. Liu", "G. Wang", "C. Gao"]
+authors: ["Jingtan Ma", "Qiaogen Zhang", "Zhicheng Wu", "Can Guo", "Tao Wen", "Lin Liu", "Guoli Wang", "Chao Gao"]
 publication_types: ["1"]
 abstract: ""
 featured: false

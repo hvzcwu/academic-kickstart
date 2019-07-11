@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-吴治诚是西安交通大学电气工程学院高电压教研室的在读博士生，博士生导师为张乔根教授。他的博士课题为气体绝缘金属封闭组合电器(Gas-insulated metal-enclosed switchgear, GIS)的绝缘评价与状态监测。
+吴治诚是西安交通大学电气工程学院高电压教研室的在读博士生，博士生导师为[张乔根](http://gr.xjtu.edu.cn/web/hvzhang) 教授。他的博士课题为气体绝缘金属封闭组合电器(Gas-insulated metal-enclosed switchgear, GIS)的绝缘评价与状态监测。

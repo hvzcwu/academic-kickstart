@@ -54,7 +54,7 @@ date_format = "Jan 2006"
     title = "优秀研究生"
     url = ""
     certificate_url = ""
-    date_start = "2019-11-28"
+    date_start = "2018-11-28"
     date_end = ""
     description = ""
 

@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "代表文章"
+  name = "代表作"
   url = "#featured"
   weight = 20
 

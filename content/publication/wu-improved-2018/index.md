@@ -1,6 +1,6 @@
 ---
 title: "Improved Method for Acoustic Identification of Free Conductive Particle Defects in GIL"
-date: 2018-01-01
+date: 2018-12-29
 publishDate: 2019-07-10T13:51:40.958619Z
 authors: ["Zhicheng Wu", "Qiaogen Zhang", "Jiajie Song", "Xiao'ang Li"]
 publication_types: ["2"]

@@ -1,6 +1,6 @@
 ---
 title: "Neglected culprit of nonlinear discharge characteristics in SF6: Shielding effect induced by positive glow corona discharge"
-date: 2019-01-01
+date: 2019-07-18
 publishDate: 2019-07-18T00:41:52.128901Z
 authors: ["Zhicheng Wu", "Qiaogen Zhang", "Lisong Zhang", "Can Guo", "Qiandong Du", "Lei Pang"]
 publication_types: ["2"]
@@ -9,4 +9,3 @@ featured: true
 publication: "*Plasma Sources Science and Technology*"
 url_pdf: "http://iopscience.iop.org/10.1088/1361-6595/ab32f4"
 ---
-

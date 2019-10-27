@@ -21,12 +21,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "教育部"
   organization_url = ""
-  title = "博士研究生国家奖学金"
+  title = "2017至2018学年博士研究生国家奖学金"
   url = ""
   certificate_url = ""
   date_start = "2018-11-20"
   date_end = ""
   description = ""
+
+[[item]]
+    organization = "西安交通大学"
+    organization_url = ""
+    title = "优秀研究生"
+    url = ""
+    certificate_url = ""
+    date_start = "2018-11-28"
+    date_end = ""
+    description = ""
 
 [[item]]
   organization = "西安交通大学教育基金会"
@@ -48,13 +58,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "教育部"
+  organization_url = ""
+  title = "2018至2019学年博士研究生国家奖学金"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-15"
+  date_end = ""
+  description = ""
+
   [[item]]
     organization = "西安交通大学"
     organization_url = ""
     title = "优秀研究生"
     url = ""
     certificate_url = ""
-    date_start = "2018-11-28"
+    date_start = "2019-10-15"
     date_end = ""
     description = ""
 

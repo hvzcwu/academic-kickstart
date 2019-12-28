@@ -78,4 +78,14 @@ date_format = "Jan 2006"
     date_end = ""
     description = ""
 
+    [[item]]
+      organization = "西安交通大学"
+      organization_url = ""
+      title = "“远东奖学金”"
+      url = ""
+      certificate_url = ""
+      date_start = "2019-12-24"
+      date_end = ""
+      description = ""
+
 +++

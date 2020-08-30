@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 电气工程 在读博士生
+role: 电气工程 助理教授
 
 # Organizations/Affiliations
 organizations:

@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "人力资源和社会保障部、全国博士后管委会"
+  organization_url = ""
+  title = "2020年度博士后创新人才支持计划"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-6-10"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "教育部"
   organization_url = ""

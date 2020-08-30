@@ -23,14 +23,14 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- GIS绝缘评估与状态监测
+- 气体绝缘设备绝缘评估
+- 先进电工用环氧材料
 - 电气设备局部放电检测
 - 气体放电物理
-- 人工智能技术在高电压领域的应用
 
 education:
   courses:
-  - course: 在读博士生·电气工程
+  - course: 博士·电气工程
     institution: 西安交通大学
     year: 2017
   - course: 长学制研究生·电气工程
@@ -70,4 +70,14 @@ user_groups:
 - Visitors
 ---
 
-吴治诚是西安交通大学电气工程学院高电压教研室的在读博士生，博士生导师为[张乔根](http://gr.xjtu.edu.cn/web/hvzhang) 教授。他的博士课题为气体绝缘金属封闭组合电器(Gas-insulated metal-enclosed switchgear, GIS)的绝缘评价与状态监测。读博期间，在Plasma Sources Science and Technology, IEEE Transactions on Power Delivery, IEEE Transactions on Dielectric and Electrical Insulation等期刊发表学术论文46篇，其中SCI检索论文19篇。同时是IEEE Student Member、DEIS Member、CIGRE B3专委会青年成员、CIGRE B1/B3.74工作组成员与中国电机工程学会学生会员。
+吴治诚是西安交通大学电气工程学院高电压教研室的助理教授。博士毕业于西安交通大学电气工程学院，师从[张乔根](http://gr.xjtu.edu.cn/web/hvzhang) 教授。研究方向为气体绝缘设备绝缘评估及先进电工用环氧材料。
+
+同时具备电气工程、计算机、金融学科背景。
+
+获2020年度“博士后创新人才支持计划”资助，研究课题为“多场载荷作用下GIL三支柱绝缘子体绝缘失效机制及服役特性评估”。
+
+作为课题主要研究人员参与了国家重点研发计划、国家电网公司科技项目、南方电网公司科技项目等共8项。科技成果“GIS绝缘缺陷组合电压检测关键技术研究及应用”、“GIS/GIL设备绝缘可靠性评估与提升关键技术及应用”获得南方电网科学研究院科技进步奖二等奖。
+
+在Plasma Sources Science and Technology, IEEE Transactions on Power Delivery, IEEE Transactions on Dielectric and Electrical Insulation等期刊发表学术论文50余篇，其中SCI检索论文19篇。
+
+担任CIGRE中国国家委员会青年委员会（NGN China）副主席，同时是DEIS Member、CIGRE B3专委会青年成员、CIGRE B1/B3.74工作组成员、IEEE Student Member与中国电机工程学会学生会员。

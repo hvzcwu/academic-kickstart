@@ -30,73 +30,23 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "教育部"
+  organization = “中国机械工业联合会、中国机械工程学会”
   organization_url = ""
-  title = "2017至2018学年博士研究生国家奖学金"
+  title = “2021年度中国机械工业科学技术奖科技进步二等奖（2/10）”
   url = ""
   certificate_url = ""
-  date_start = "2018-11-20"
+  date_start = "2021-11-9”
   date_end = ""
   description = ""
 
 [[item]]
-    organization = "西安交通大学"
-    organization_url = ""
-    title = "优秀研究生"
-    url = ""
-    certificate_url = ""
-    date_start = "2018-11-28"
-    date_end = ""
-    description = ""
-
-[[item]]
-  organization = "西安交通大学教育基金会"
+  organization = “中国电机工程学会”
   organization_url = ""
-  title = "2018年度西安交通大学高电压技术专业“邱毓昌”奖学金"
+  title = “2021年度中国电力科技进步奖三等奖（3/7）”
   url = ""
   certificate_url = ""
-  date_start = "2019-01-01"
+  date_start = "2021-10-10"
   date_end = ""
   description = ""
-
-[[item]]
-  organization = "西安交通大学电气学院"
-  organization_url = ""
-  title = "优秀共产党员"
-  url = "http://ee.xjtu.edu.cn/info/1114/9392.htm"
-  certificate_url = ""
-  date_start = "2019-06-28"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "教育部"
-  organization_url = ""
-  title = "2018至2019学年博士研究生国家奖学金"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-10-15"
-  date_end = ""
-  description = ""
-
-  [[item]]
-    organization = "西安交通大学"
-    organization_url = ""
-    title = "优秀研究生"
-    url = ""
-    certificate_url = ""
-    date_start = "2019-10-15"
-    date_end = ""
-    description = ""
-
-    [[item]]
-      organization = "西安交通大学"
-      organization_url = ""
-      title = "“远东奖学金”"
-      url = ""
-      certificate_url = ""
-      date_start = "2019-12-24"
-      date_end = ""
-      description = ""
 
 +++

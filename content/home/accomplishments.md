@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = “中国机械工业联合会、中国机械工程学会”
   organization_url = ""
-  title = “2021年度中国机械工业科学技术奖科技进步二等奖（2/10）”
+  title ="2021年度中国机械工业科学技术奖科技进步二等奖（2/10）"
   url = ""
   certificate_url = ""
   date_start = "2021-11-9”
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = “中国电机工程学会”
   organization_url = ""
-  title = “2021年度中国电力科技进步奖三等奖（3/7）”
+  title = "2021年度中国电力科技进步奖三等奖（3/7）"
   url = ""
   certificate_url = ""
   date_start = "2021-10-10"

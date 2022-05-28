@@ -29,10 +29,7 @@ interests:
 
 education:
   courses:
- - course: 博士后·电气工程·合作导师：李立浧
-    institution: 西安交通大学
-    year: 2020 
-  - course: 博士·电气工程·导师：张乔根
+  - course: 博士·电气工程
     institution: 西安交通大学
     year: 2017
   - course: 长学制研究生·电气工程

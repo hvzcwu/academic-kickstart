@@ -23,14 +23,16 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 气体绝缘设备绝缘评估
-- 先进电工用环氧材料
-- 电气设备局部放电检测
-- 气体放电物理
+- GIS/GIL设备绝缘可靠性评估与提升
+- 先进电工环氧材料制备与研发
+- 基于痕量气体传感的电力设备状态评估
 
 education:
   courses:
-  - course: 博士·电气工程
+ - course: 博士后·电气工程·合作导师：李立浧
+    institution: 西安交通大学
+    year: 2020 
+  - course: 博士·电气工程·导师：张乔根
     institution: 西安交通大学
     year: 2017
   - course: 长学制研究生·电气工程
@@ -47,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:z_c_wu@163.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:hvzcwu@xjtu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Fk93jccAAAAJ&hl
@@ -76,8 +78,11 @@ user_groups:
 
 获2020年度“博士后创新人才支持计划”资助，研究课题为“多场载荷作用下GIL三支柱绝缘子体绝缘失效机制及服役特性评估”。
 
-作为课题主要研究人员参与了国家重点研发计划、国家电网公司科技项目、南方电网公司科技项目等共8项。科技成果“GIS绝缘缺陷组合电压检测关键技术研究及应用”、“GIS/GIL设备绝缘可靠性评估与提升关键技术及应用”获得南方电网科学研究院科技进步奖二等奖。
+主持人社部“博士后创新人才支持计划”、国家自然科学基金联合基金项目子课题等纵向课题3项、国家电网公司总部科技项目、南方电网公司科技项目8项。
 
-在Plasma Sources Science and Technology, IEEE Transactions on Power Delivery, IEEE Transactions on Dielectric and Electrical Insulation等期刊发表学术论文50余篇，其中SCI检索论文19篇。
 
-担任CIGRE中国国家委员会青年委员会（NGN China）副主席，同时是DEIS Member、CIGRE B3专委会青年成员、CIGRE B1/B3.74工作组成员、IEEE Student Member与中国电机工程学会学生会员。
+科技成果获得省部级奖励2项：“GIS/GIL紧凑化绝缘设计关键技术及应用”获中国机械工业科学技术奖二等奖(2/10)，“GIS/GIL突发性绝缘失效防御关键技术及应用”获中国电力科学技术进步奖二等奖(3/7)。
+
+在Plasma Sources Science and Technology, IEEE Transactions on Power Delivery, IEEE Transactions on Dielectric and Electrical Insulation等期刊发表学术论文60余篇，其中SCI检索论文22篇。
+
+担任CIGRE中国国家委员会青年委员会（NGN China）副主席、主席，担任CIGRE NGN执行委员会委员，同时是DEIS Member、CIGRE B3专委会青年成员及CIGRE B1/B3.74工作组成员。
